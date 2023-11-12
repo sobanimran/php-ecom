@@ -1,0 +1,12 @@
+CREATE DB IN MYSQL NAME "adminpanel"
+IMPORT DB FROM "dism-project/database/adminpanel.sql"
+
+LOGIN -ADMIN-
+EMAIL     "admin@gmail.com" 
+PASSWORD  "admin"
+
+
+
+LOGIN -ADMIN-
+EMAIL     "soban2@gmail.com"
+PASSWORD  "12345"
